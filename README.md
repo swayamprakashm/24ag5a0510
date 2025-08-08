@@ -73,7 +73,7 @@ Orchestration tools like Kubernetes manage these containers, ensuring they are d
 
 # **Popular DevOps Tools:**
 <p align="center">
-  <img src="DevOpsTools.jpg" alt="24ag5a0510" width="500" height="400" />
+  <img src="DevOpsTools.jpg" alt="24ag5a0510" width="700" height="600" />
 </p>
 
 **CI/CD Pipelines:**
@@ -115,6 +115,7 @@ Git (GitHub, GitLab, Bitbucket)
 
 
 ![24ag5a0510](Prash.jpg)
+
 
 
 
