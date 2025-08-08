@@ -9,6 +9,9 @@
 <p align="center">
 <img src="devops.jpg" alt="24ag5a0510" width="500" height="400" />
 </p>
+
+![24ag5a0510](DEVOPS.gif)
+
 ---
 
 # **Key Concepts in DevOps:**
@@ -61,7 +64,6 @@ Containers like Docker allow developers to package applications with all their d
 Orchestration tools like Kubernetes manage these containers, ensuring they are deployed, scaled, and maintained correctly.
 
 ---
-<img src="devops.jpg" alt="24ag5a0510" width="300" height="200" />
 
 ![24ag5a0510](DevOpsTools.jpg)
 ![24ag5a0510](DEVOPS.gif)
@@ -69,6 +71,7 @@ Orchestration tools like Kubernetes manage these containers, ensuring they are d
 
 
 ![24ag5a0510](Prash.jpg)
+
 
 
 
