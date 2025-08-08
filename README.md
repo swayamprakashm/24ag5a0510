@@ -17,10 +17,9 @@
 
 # **Key Concepts in DevOps:**
 <p align="center">
-<img src="hh.gif" alt="24ag5a0510" width="500" height="400" />
+<img src="hh.gif" alt="24ag5a0510" width="700" height="600" />
 </p>
 
-[24ag5a0510](hh.gif)
 
 **Continuous Integration (CI):**
 
@@ -116,6 +115,7 @@ Git (GitHub, GitLab, Bitbucket)
 
 
 ![24ag5a0510](Prash.jpg)
+
 
 
 
