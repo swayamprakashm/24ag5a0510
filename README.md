@@ -73,7 +73,6 @@ Orchestration tools like Kubernetes manage these containers, ensuring they are d
 </p>
 
 **CI/CD Pipelines:**
-
 Jenkins
 GitLab CI
 Travis CI
@@ -107,6 +106,7 @@ Google Cloud
 
 
 ![24ag5a0510](Prash.jpg)
+
 
 
 
