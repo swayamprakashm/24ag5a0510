@@ -67,12 +67,48 @@ Orchestration tools like Kubernetes manage these containers, ensuring they are d
 
 ---
 
-![24ag5a0510](DevOpsTools.jpg)
-![24ag5a0510](DEVOPS.gif)
+# **Popular DevOps Tools:**
+<p align="center">
+  <img src="DevOpsTools.jpg" alt="24ag5a0510" width="500" height="400" />
+</p>
+**CI/CD Pipelines:**
+
+Jenkins
+GitLab CI
+Travis CI
+CircleCI
+
+**Containerization & Orchestration:**
+Docker
+Kubernetes
+OpenShift
+
+**Version Control:**
+Git (GitHub, GitLab, Bitbucket)
+
+**Configuration Management & IaC:**
+Terraform
+Ansible
+Chef
+Puppet
+Monitoring & Logging:
+Prometheus
+Grafana
+ELK Stack
+Datadog
+
+**Cloud Platforms:**
+AWS
+Azure
+Google Cloud
+
+---
+![24ag5a0510](DevOpsTools.jpg) 
 
 
 
 ![24ag5a0510](Prash.jpg)
+
 
 
 
