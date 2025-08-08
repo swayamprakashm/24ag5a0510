@@ -73,39 +73,45 @@ Orchestration tools like Kubernetes manage these containers, ensuring they are d
 </p>
 
 **CI/CD Pipelines:**
-Jenkins
-GitLab CI
-Travis CI
-CircleCI
+
+1. Jenkins
+2. GitLab CI
+3. Travis CI
+4. CircleCI
 
 **Containerization & Orchestration:**
-Docker
-Kubernetes
-OpenShift
+
+1. Docker
+2. Kubernetes
+3. OpenShift
 
 **Version Control:**
+
 Git (GitHub, GitLab, Bitbucket)
 
 **Configuration Management & IaC:**
-Terraform
-Ansible
-Chef
-Puppet
-Monitoring & Logging:
-Prometheus
-Grafana
-ELK Stack
-Datadog
+
+1. Terraform
+2. Ansible
+3. Chef
+4. Puppet
+5. Monitoring & Logging:
+6. Prometheus
+7. Grafana
+8. ELK Stack
+9. Datadog
 
 **Cloud Platforms:**
-AWS
-Azure
-Google Cloud
+
+1. AWS
+2. Azure
+3. Google Cloud
 
 ---
 
 
 ![24ag5a0510](Prash.jpg)
+
 
 
 
