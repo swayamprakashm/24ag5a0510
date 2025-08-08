@@ -12,13 +12,16 @@
 <p align="center">
 <img src="DEVOPS.gif" alt="24ag5a0510" width="500" height="400" />
 </p>
-<p align="center">
-<img src="hh.gif" alt="24ag5a0510" width="500" height="400" />
-</p>
 
 ---
 
 # **Key Concepts in DevOps:**
+<p align="center">
+<img src="hh.gif" alt="24ag5a0510" width="500" height="400" />
+</p>
+
+![24ag5a0510](hh.gif)
+
 **Continuous Integration (CI):**
 
 CI is the practice of frequently merging code changes into a central repository.
@@ -113,6 +116,7 @@ Git (GitHub, GitLab, Bitbucket)
 
 
 ![24ag5a0510](Prash.jpg)
+
 
 
 
