@@ -71,6 +71,7 @@ Orchestration tools like Kubernetes manage these containers, ensuring they are d
 <p align="center">
   <img src="DevOpsTools.jpg" alt="24ag5a0510" width="500" height="400" />
 </p>
+
 **CI/CD Pipelines:**
 
 Jenkins
@@ -103,11 +104,10 @@ Azure
 Google Cloud
 
 ---
-![24ag5a0510](DevOpsTools.jpg) 
-
 
 
 ![24ag5a0510](Prash.jpg)
+
 
 
 
