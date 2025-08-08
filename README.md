@@ -10,7 +10,9 @@
 <img src="devops.jpg" alt="24ag5a0510" width="500" height="400" />
 </p>
 
-![24ag5a0510](DEVOPS.gif)
+<p align="center">
+<img src="DEVOPS.gif" alt="24ag5a0510" width="500" height="400" />
+</p>
 
 ---
 
@@ -71,6 +73,7 @@ Orchestration tools like Kubernetes manage these containers, ensuring they are d
 
 
 ![24ag5a0510](Prash.jpg)
+
 
 
 
