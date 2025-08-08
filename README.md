@@ -1,14 +1,14 @@
 ---
 
 # **DevOps**
-
+<p align="center">
+<img src="devops.jpg" alt="24ag5a0510" width="500" height="400" />
+</p>
 ---
 
 **DevOps** is a set of practices, cultural philosophies, and tools that aim to bridge the gap between **software development (Dev)** and **IT operations (Ops)**. The goal is to shorten the development lifecycle, deliver high-quality software quickly, and improve collaboration between development, operations, and other stakeholders.
 
-<p align="center">
-<img src="devops.jpg" alt="24ag5a0510" width="500" height="400" />
-</p>
+
 <p align="center">
 <img src="DEVOPS.gif" alt="24ag5a0510" width="500" height="400" />
 </p>
@@ -115,6 +115,7 @@ Git (GitHub, GitLab, Bitbucket)
 
 
 ![24ag5a0510](Prash.jpg)
+
 
 
 
